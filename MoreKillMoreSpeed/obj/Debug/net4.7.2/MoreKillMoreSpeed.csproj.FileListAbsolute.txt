@@ -17,3 +17,22 @@ D:\AAAASteven\btd6 modding\mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMor
 D:\AAAASteven\btd6 modding\mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.csproj.CopyComplete
 D:\AAAASteven\btd6 modding\mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.dll
 D:\AAAASteven\btd6 modding\mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.pdb
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\MoreKillMoreSpeed.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\MoreKillMoreSpeed.pdb
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\Assembly-CSharp.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\BloonsTD6 Mod Helper.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\Il2Cppmscorlib.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\Il2CppSystem.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\MelonLoader.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\UnhollowerBaseLib.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\UnityEngine.CoreModule.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\UnityEngine.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\bin\Debug\net4.7.2\BloonsTD6 Mod Helper.xml
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.csproj.AssemblyReference.cache
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.AssemblyInfoInputs.cache
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.AssemblyInfo.cs
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.csproj.CoreCompileInputs.cache
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.csproj.CopyComplete
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.dll
+D:\AAAASteven\btd6 modding\mods\Public Mods\MoreKillMoreSpeed\obj\Debug\net4.7.2\MoreKillMoreSpeed.pdb
