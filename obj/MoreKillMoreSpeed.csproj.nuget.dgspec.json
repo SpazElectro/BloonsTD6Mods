@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\AAAASteven\\btd6 modding\\mods\\MoreKillMoreSpeed\\MoreKillMoreSpeed.csproj": {}
+  },
+  "projects": {
+    "D:\\AAAASteven\\btd6 modding\\mods\\MoreKillMoreSpeed\\MoreKillMoreSpeed.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AAAASteven\\btd6 modding\\mods\\MoreKillMoreSpeed\\MoreKillMoreSpeed.csproj",
+        "projectName": "MoreKillMoreSpeed",
+        "projectPath": "D:\\AAAASteven\\btd6 modding\\mods\\MoreKillMoreSpeed\\MoreKillMoreSpeed.csproj",
+        "packagesPath": "C:\\Users\\menar\\.nuget\\packages\\",
+        "outputPath": "D:\\AAAASteven\\btd6 modding\\mods\\MoreKillMoreSpeed\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\menar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.7.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
