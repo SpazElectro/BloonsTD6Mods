@@ -1,12 +1,5 @@
 /publish.bat
 /MoreKillMoreSpeed/run.bat
-/MoreKillMoreSpeed/Assembly-CSharp.dll
-/MoreKillMoreSpeed/BloonsTD6 Mod Helper.dll
-/MoreKillMoreSpeed/BloonsTD6 Mod Helper.xml
-/MoreKillMoreSpeed/Il2Cppmscorlib.dll
-/MoreKillMoreSpeed/Il2CppSystem.dll
-/MoreKillMoreSpeed/mscorlib.dll
-/MoreKillMoreSpeed/MelonLoader.dll
-/MoreKillMoreSpeed/UnhollowerBaseLib.dll
+*.dll
 /MoreKillMoreSpeed/bin/**
 /MoreKillMoreSpeed/obj/**
