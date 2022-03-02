@@ -13,3 +13,5 @@ bin/Debug/net4.7.2/Il2Cppmscorlib.dll
 bin/Debug/net4.7.2/Il2CppSystem.dll
 bin/Debug/net4.7.2/MelonLoader.dll
 bin/Debug/net4.7.2/UnhollowerBaseLib.dll
+bin/Debug/net4.7.2/UnityEngine.CoreModule.dll
+run.bat
