@@ -1,6 +1,5 @@
 ﻿using BTD_Mod_Helper;
 using BTD_Mod_Helper.Api.ModOptions;
-using UnityEngine;
 using MelonLoader;
 
 using Assets.Scripts.Utils;
@@ -62,7 +61,7 @@ namespace MoreKillMoreSpeed
         {
             // Code from https://github.com/Timotheeee/btd6_mods/blob/master/speedhackmelon/Main.cs
             base.OnUpdate();
-            
+
             TimeManager.timeScaleWithoutNetwork = (float) speed;
             TimeManager.networkScale = (float) speed;
 
