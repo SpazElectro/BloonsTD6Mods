@@ -1,5 +1,5 @@
 publish.bat
 /MoreKillMoreSpeed/run.bat
-/MoreKill*.dll
+/MoreKillMoreSpeed/*.dll
 /MoreKillMoreSpeed/bin/**
 /MoreKillMoreSpeed/obj/**
