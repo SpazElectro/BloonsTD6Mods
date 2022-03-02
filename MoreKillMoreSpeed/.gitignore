@@ -1,0 +1,15 @@
+Assembly-CSharp.dll
+BloonsTD6 Mod Helper.dll
+BloonsTD6 Mod Helper.xml
+Il2Cppmscorlib.dll
+Il2CppSystem.dll
+MelonLoader.dll
+UnhollowerBaseLib.dll
+obj/**/*
+bin/Debug/net4.7.2/Assembly-CSharp.dll
+bin/Debug/net4.7.2/BloonsTD6 Mod Helper.dll
+bin/Debug/net4.7.2/BloonsTD6 Mod Helper.xml
+bin/Debug/net4.7.2/Il2Cppmscorlib.dll
+bin/Debug/net4.7.2/Il2CppSystem.dll
+bin/Debug/net4.7.2/MelonLoader.dll
+bin/Debug/net4.7.2/UnhollowerBaseLib.dll
