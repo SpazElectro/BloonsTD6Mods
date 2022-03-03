@@ -44,6 +44,7 @@ namespace SpeedAPI
         {
             base.OnMainMenu();
 
+            descend = false;
             speed = 3;
         }
 
@@ -51,6 +52,7 @@ namespace SpeedAPI
         {
             base.OnMatchStart();
 
+            descend = false;
             speed = 3;
         }
 
@@ -58,6 +60,7 @@ namespace SpeedAPI
         {
             base.OnRestart();
 
+            descend = false;
             speed = 3;
         }
 
