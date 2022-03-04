@@ -7,5 +7,6 @@ MelonLoader.dll
 UnhollowerBaseLib.dll
 UnityEngine.CoreModule.dll
 UnityEngine.dll
+UnityEngine.IMGUIModule.dll
 obj/**/*
 run.bat
