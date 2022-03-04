@@ -1,0 +1,11 @@
+Assembly-CSharp.dll
+BloonsTD6 Mod Helper.dll
+BloonsTD6 Mod Helper.xml
+Il2Cppmscorlib.dll
+Il2CppSystem.dll
+MelonLoader.dll
+UnhollowerBaseLib.dll
+UnityEngine.CoreModule.dll
+UnityEngine.dll
+obj/**/*
+run.bat

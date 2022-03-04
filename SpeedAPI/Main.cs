@@ -11,7 +11,6 @@ namespace SpeedAPI
 {
     public class Main : BloonsTD6Mod
     {
-        public static MelonLogger.Instance Logger;
         public static bool descend = false;
         public static double speed = 3;
         public static int slowAmount = 1;
@@ -30,14 +29,14 @@ namespace SpeedAPI
         {
             base.OnApplicationStart();
 
-            Logger.Msg("Started SpeedAPI!");
+            System.Console.WriteLine("Started SpeedAPI!");
         }
 
         public static void SetSpeed(double newSpeed)
         {
             if(!descend) { speed += newSpeed; } else if(descend && canDescend) { speed -= newSpeed; }
 
-            Logger.Msg("Speed: " + speed);
+            System.Console.WriteLine("Speed: " + speed);
         }
 
         public override void OnMainMenu()
