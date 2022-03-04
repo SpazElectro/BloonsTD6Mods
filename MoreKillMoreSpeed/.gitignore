@@ -5,5 +5,8 @@ Il2Cppmscorlib.dll
 Il2CppSystem.dll
 MelonLoader.dll
 UnhollowerBaseLib.dll
+UnityEngine.dll
+UnityEngine.CoreModule.dll
+Unity.ResourceManager.dll
 obj/**/*
 run.bat

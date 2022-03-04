@@ -4,13 +4,13 @@ using MelonLoader;
 
 using Assets.Scripts.Utils;
 
-
 [assembly: MelonInfo(typeof(SpeedAPI.Main), "SpeedAPI", "1.0.0", "Steven")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
 namespace SpeedAPI
 {
     public class Main : BloonsTD6Mod
     {
+        public static MelonLogger.Instance Logger;
         public static bool descend = false;
         public static double speed = 3;
         public static int slowAmount = 1;
@@ -28,15 +28,16 @@ namespace SpeedAPI
         public override void OnApplicationStart()
         {
             base.OnApplicationStart();
-
-            System.Console.WriteLine("Started SpeedAPI!");
+            
+            Logger = LoggerInstance;
+            Logger.Msg("Started SpeedAPI!");
         }
 
         public static void SetSpeed(double newSpeed)
         {
             if(!descend) { speed += newSpeed; } else if(descend && canDescend) { speed -= newSpeed; }
 
-            System.Console.WriteLine("Speed: " + speed);
+            Logger.Msg("Speed: " + speed);
         }
 
         public override void OnMainMenu()
@@ -92,5 +93,6 @@ namespace SpeedAPI
 
             TimeManager.maxSimulationStepsPerUpdate = (float) (slow ? slowAmount : max);
         }
+
     }
 }
